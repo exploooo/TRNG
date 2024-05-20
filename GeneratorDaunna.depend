@@ -1,0 +1,27 @@
+# depslib dependency file v1.0
+1716228629 source:c:\users\explo\desktop\generatordaunna\main.cpp
+	<fstream>
+	<time.h>
+	"TRNG.h"
+
+1716228761 source:c:\users\explo\desktop\generatordaunna\src\trng.cpp
+	"TRNG.h"
+
+1716228860 c:\users\explo\desktop\generatordaunna\include\trng.h
+	<iostream>
+	<time.h>
+	<ctime>
+	<math.h>
+	<thread>
+	<vector>
+	<random>
+
+1716031665 c:\users\explo\desktop\generatordaunna\trng.h
+	<iostream>
+	<time.h>
+	<ctime>
+	<math.h>
+	<thread>
+	<vector>
+	<random>
+
